@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "conformalInference.fd"]
+	path = conformalInference.fd
+	url = https://github.com/cran/conformalInference.fd
+	shallow = true
+	registered = true
+[submodule "conformalInference.multi"]
+	path = conformalInference.multi
+	url = https://github.com/cran/conformalInference.multi
+	shallow = true
+	registered = true
